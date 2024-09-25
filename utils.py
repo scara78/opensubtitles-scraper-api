@@ -1,3 +1,3 @@
-language_code = "por"
-subtitles_number = 2
-subtitle_name = "Portuguese"
+language_code = "rum"
+subtitles_number = 6
+subtitle_name = "Romana"
